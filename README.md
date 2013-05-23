@@ -2,14 +2,10 @@ cludy
 =====
 
 a tool for sorting includes in c++ projects.
+feel free to complain if you find any issues.
 
-Compile
--------
-
-use make
-
-Run
----
+Usage
+-----
 
 Sort includes in My.cpp by alphabet inplace.
 ./cludy My.cpp
